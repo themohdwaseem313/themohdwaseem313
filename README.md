@@ -6,9 +6,9 @@
 ## 🧩 About Me  
 I am a motivated **Data Analyst** who enjoys transforming complex datasets into clear, actionable insights. My strength lies in combining **analytical thinking** with **visual storytelling** to support business decisions. I am actively building real-world projects and continuously upgrading my technical skill set.
 
-### ✨ Fun Fact: Every dataset tells a story if you look closely 👀📊
+**✨ Fun Fact:** Every dataset tells a story if you look closely 👀📊
   
- ### 📧 How to reach me: mohdwaseemofficialid@gmail.com
+ **📧 How to reach me:** mohdwaseemofficialid@gmail.com
 
 
 ## 💻 Tech Stack:
