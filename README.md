@@ -1,5 +1,5 @@
  # 👋 Hello, I’m Mohd Waseem  
-### 📈 Data Analyst | Business Intelligence | Data Storytelling
+### 📈 IBM Certified Data Analyst...
 
 ---
 
